@@ -73,10 +73,15 @@ footer {
 
   #column-3 {
     background-color: coral;
+    width: 100%;
   }
 
   footer {
     background-color: cornflowerblue;
+  }
+
+  .col-3 {
+    width: 50%;
   }
   
 }
@@ -93,15 +98,20 @@ footer {
   }
 
   #column-2 {
-    background-color: lavenderblush;
+    background-color: coral;
   }
 
   #column-3 {
     background-color: lavenderblush;
+    width: 33.3%
   }
 
   footer {
     background-color: lightseagreen;
+  }
+
+  .col-3 {
+    width: 33.33%;
   }
    
 }
